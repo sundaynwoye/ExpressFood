@@ -22,6 +22,7 @@ An order history for each client
 You will make a UML diagram to model this technical architecture. Once you're happy with the diagram, you'll create the actual MySQL database and fill it up with information (this data will obviously be made-up, but that's okay)!
 
 Deliverables
+
 Your UML diagram
 
 Your MySQL database filled out with made-up (but relevant) information 
